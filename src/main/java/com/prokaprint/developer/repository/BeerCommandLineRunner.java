@@ -1,7 +1,9 @@
-package com.prokaprint.developer;
+package com.prokaprint.developer.repository;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
+
+import com.prokaprint.developer.model.Beer;
 
 import java.util.stream.Stream;
 

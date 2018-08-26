@@ -1,7 +1,11 @@
-package com.prokaprint.developer;
+package com.prokaprint.developer.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.prokaprint.developer.model.Beer;
+import com.prokaprint.developer.repository.BeerRepository;
+
 import org.springframework.web.bind.annotation.CrossOrigin;
 
 import java.util.Collection;

@@ -1,4 +1,4 @@
-package com.prokaprint.developer;
+package com.prokaprint.developer.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
